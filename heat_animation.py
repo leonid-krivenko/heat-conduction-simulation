@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from IPython.display import HTML
 
-# Parameters
 Tau = 0.45
 L = 0.3
 dx = 0.01
@@ -16,7 +15,6 @@ Nt = int(t_total / dt)
 T_outside = 500
 T_initial = 20.0
 
-# Initialize temperature
 T = np.ones(Nx) * T_initial
 T[0] = T_outside
 
@@ -34,7 +32,6 @@ for n in range(1, Nt):
 
 x = np.linspace(0, L, Nx)
 
-# Create 2D animation plot
 fig, ax = plt.subplots(figsize=(8, 4))
 line, = ax.plot(x, T_evolution[0, :], color='red')
 ax.set_ylim(T_initial, T_outside + 100)
@@ -49,6 +46,6 @@ def update(frame):
     return line,
 
 ani = FuncAnimation(fig, update, frames=range(0, Nt, max(1, Nt // 200)), interval=30)
-plt.close(fig)  # Suppress duplicate static plot
+plt.close(fig)  
 HTML(ani.to_jshtml())
 
