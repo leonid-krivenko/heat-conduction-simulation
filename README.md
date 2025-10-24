@@ -83,7 +83,7 @@ This project uses a few core Python libraries:
 I also made a short presentation for this workshop to explain the main ideas behind the heat equation and show how the simulation connects to the real experiment.  
 It was used during the SigmaCamp session so campers could follow the steps and understand what the code was doing.
 
- [View Google Slides Presentation]([https://docs.google.com/presentation/d/YOUR_LINK_HERE](https://docs.google.com/presentation/d/1bpQqz0AIb9GX3rNxgv5ZkL9QI7_coE1wlRFX9M2RXec/edit?slide=id.g363a6e2d831_0_0#slide=id.g363a6e2d831_0_0))  
+ [View Google Slides Presentation](https://docs.google.com/presentation/d/1bpQqz0AIb9GX3rNxgv5ZkL9QI7_coE1wlRFX9M2RXec/edit?slide=id.g363a6e2d831_0_0#slide=id.g363a6e2d831_0_0)  
 
 ## 6. Teaching Context and Learning Outcomes
 
