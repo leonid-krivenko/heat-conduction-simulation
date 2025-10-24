@@ -78,9 +78,14 @@ This project uses a few core Python libraries:
 - **NumPy** — numerical arrays and operations  
 - **Matplotlib** — static and animated visualization (`FuncAnimation`, `mpl_toolkits.mplot3d`)  
 
-To install them, run:
+## 5. Presentation
 
-## 7. Teaching Context and Learning Outcomes
+I also made a short presentation for this workshop to explain the main ideas behind the heat equation and show how the simulation connects to the real experiment.  
+It was used during the SigmaCamp session so campers could follow the steps and understand what the code was doing.
+
+ [View Google Slides Presentation]([https://docs.google.com/presentation/d/YOUR_LINK_HERE](https://docs.google.com/presentation/d/1bpQqz0AIb9GX3rNxgv5ZkL9QI7_coE1wlRFX9M2RXec/edit?slide=id.g363a6e2d831_0_0#slide=id.g363a6e2d831_0_0))  
+
+## 6. Teaching Context and Learning Outcomes
 
 I made this project for the **SigmaCamp 2025** workshop, where I taught campers about **heat conduction** using both an experiment and a Python simulation.
 
@@ -98,7 +103,7 @@ For me, running this workshop helped me get better at explaining ideas in simple
 
 ---
 
-## 8. Future Work
+## 7. Future Work
 
 There are a few things I’d like to add or improve later:
 
