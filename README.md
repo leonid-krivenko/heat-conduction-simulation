@@ -49,8 +49,8 @@ The temperature evolution is visualized in both **2D and 3D**, showing how heat 
 
 | Visualization | Description |
 |----------------|-------------|
-| <img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/b75c490b-334c-4fa8-8fbe-6c9dfc6b46d1" /> | *Figure 1:* 3D temperature distribution $T(x,t)$ over distance and time. |
-| <img width="677" height="690" alt="image" src="https://github.com/user-attachments/assets/133dc1e2-6ffa-46f5-b08c-d52362e543c2" /> | *Figure 2:* Temperature vs. time at three points along the rod. |
+| <img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/b75c490b-334c-4fa8-8fbe-6c9dfc6b46d1" /> |  *Figure 2:* Temperature vs. time at three points along the rod. |
+| <img width="677" height="690" alt="image" src="https://github.com/user-attachments/assets/133dc1e2-6ffa-46f5-b08c-d52362e543c2" /> | *Figure 1:* 3D temperature distribution $T(x,t)$ over distance and time. |
 
 ---
 
